@@ -539,4 +539,610 @@ let search = [
     {
         title:'200. Qaysi parametrda har bir alohida uchta uch uchburchakni belgilaydi; agarda uchta sonli uchlar karrali berilmasa, unda oxirgi uchlar e’tiborga olinmaydi.         A. GL_TRIANGLES'
     },
+    {
+        title: "Kompyuter grafikasining qanday turlari mavjud.   Rastr, vektor, fraktal",
+    },
+    {
+        title: "Grafik fayllarning formatlari berilgan javobni aniqlang   gif, jpeg, bmp, eps, psd",
+    },
+    {
+        title: "OpenGL da matritsalarning o'lchami qanday   4*4",
+    },
+    {
+        title: "Bezye egri chizigini hosil qilish uchun nuqtalarni qanday olish lozim?    Boshlang`ich va tugash nuqtalari, boshlang`ich nuqtadan yo`nalish bo`ylab va tugash nuqtasidan yo`nalishga qarama-qarshi chiquvchi vektorlar orqali",
+    },
+    {
+        title: "RGB rang modelining qaysi koeffitsiyentlari qora ranga mos? (R,G,B) = (0,0,0)",
+    },
+    {
+        title: "Ekran displeyining nuqtali elementi deb- piksel",
+    },
+    {
+        title: "Windows operatsion tizimining standart dasturlaridan qaysi biri grafiklar bilan ishlash imkoniyatini beradi? Paint dasturi",
+    },
+    {
+        title: "Kompyuter grafikasida sohani bo`yash qanday usul bilan berilishi mumkin 4 bog`lanishlik va 8 bog`lanishlik",
+    },
+    {
+        title: "Qanday platon jismlar mavjud     Tetraedr, geksaedr, oktaedr, ikosaedr, dodekaedr",
+    },
+    {
+        title: "M nuqtaning fazodagi bir jinsli koordinatalarini ko'rsating?   М(x,y,z,1)",
+    },
+    {
+        title: "Kompyuter grafikasida qanday almashtirishlarning ishlatiladi   Ko`chish, masshtablash, burish, akslantirish",
+    },
+    {
+        title: "Ko`rinmas chiziq va siartlarni olib tashlash algoritmlari ko`rsatilgan qatorni belgilang Roberts, Z-bufer, Tartiblash, Varnoq algoritmlari",
+    },
+    {
+        title: "Brezenxem kompyuter grafikasi sohasida nima qildi?segmentni qurish algoritmini ishlab chiqdi",
+    },
+    {
+        title: "Ekranda rasm chizish imkonini beruvchi birinchi grafik dastur muallifi kim edi? А. Сазерленд",
+    },
+    {
+        title: "Ro'yxatga olingan mutaxassislardan qaysi biri bo`yash algoritmlarni ishlab chiqdi?   А. Гуро",
+    },
+    {
+        title: "Kesmani rastr algoritmi orqali chizuvchi algoritmni aniqlang  Brezenxeym algoritmi ",
+    },
+    {
+        title: "Qaysi splayn egri chizigi ikki tayanuvchi nuqta va shu nuqtalardagi urunuvchi vektorlar bilan beriladi? Ermit egri chizigi ",
+    },
+    {
+        title: "Qaysi splayn egri chiziqlari  4 ta tayanuvchi nuqtalar bilan beriladi?    Ermit, Beze, V-splayn",
+    },
+    {
+        title: "Keltirilgan olib tashlash algoritmlardan qaysi birida obekt nuqtasidan chizma tekisligigacha bo`lgan masofa haqida malumot har bir piksel uchun hisobga olinadi? z-bufer usuli",
+    },
+    {
+        title: "Keltirilgan qaysi olib tashlash qavariq kopburchaklardan tuzilgan obyektning korinmas qirralarinini olib tashlash? Roberts algoritmi",
+    },
+    {
+        title: "Keltirilgan qaysi uzoqlashtirish algoritmida maydonni to`g`ri burchakli 4 qismga bolish ishlatiladi?   Varnoq algoritmi ",
+    },
+    {
+        title: "Poligonal setkani qaysi bo`yash usulida tasvir realroq bo`ladi?  Guro metodi ",
+    },
+    {
+        title: "Keltirilgan rang modellaridan qaysi oddiy foydalanuvchilar uchun mo`ljallangan?   RGB",
+    },
+    {
+        title: "Qaysi Platon jismining  20 ta yoki, 30  ta kirrasi, 12 ta uchi mavjud?  dodekaedr",
+    },
+    {
+        title: "Beze va B-splayn tekisligining elementar bo`lagi nechta tayanuvchi nuqtalar bilan beriladi? 16",
+    },
+    {
+        title: "RGB rang modeli qayerda ishlatiladi   Monitorda ",
+    },
+    {
+        title: "Kompyuter grafikasi ni qanday tasvirli ko`rinishda tasvirlash mumkin? belgilar->tasvir",
+    },
+    {
+        title: "Qaysi Platon jismining  12 ta yoki, 30  ta kirrasi, 20 ta uchi mavjud? ikosaedr",
+    },
+    {
+        title: "Qaysi almashtirishlar matritsalari simmetrik? masshtablash, akslantirish",
+    },
+    {
+        title: "Qaysi Platon jismining  8 ta yoki, 12  ta qirrasi, 6 ta uchi mavjud? oktaedr",
+    },
+    {
+        title: "“Ruxsat” turlari   Оriginalga ruhsat, ekran tasviriga ruhsat",
+    },
+    {
+        title: "Windows operatsion tizimining standart dasturlaridan qaysi biri grafiklar bilan ishlash imkoniyatini beradi? Paint dasturi",
+    },
+    {
+        title: "Nechanchi yilda  kim tomonidan birinchi kompyuter uchun displey yaratilgan    1951 yilda Forrester tomonidan",
+    },
+    {
+        title: "Qaysi almashtirishlarda matritsalar simmetrik emas? masshtablash, burish",
+    },
+    {
+        title: "Grafik interfeys-……..    kompyuter va foydalanuvchi ortasida muloqot ornatuvchi vosita",
+    },
+    {
+        title: "Kompyuter grafikasi necha turga bolinadi 3 turga",
+    },
+    {
+        title: "Rastrli grafikada tasvirlar……….    nuqta(piksel)lar yordamida tashkil etildi",
+    },
+    {
+        title: "Vektorli grafikada tasvirlar……..    chiziqlardan yordamida tashkil topadi",
+    },
+    {
+        title: "Rastrli grafikada tasvir tashkil etuvchilari berilgan javobni aniqlang?  nuqta",
+    },
+    {
+        title: "Qaysi almashtirishning matritsasi determinanti 1 ga teng?  ko`chish",
+    },
+    {
+        title: "Grafik fayllarning formatlari berilgan javobni aniqlang      gif, jpeg, bmp, eps, psd",
+    },
+    {
+        title: "Ozida 256 xil rangni jamlovchi animasion grafik tasvirlarni saqlovchi format korsatilgan javobni aniqlang? gif",
+    },
+    {
+        title: "Ozida milliondan ortiq rangni jamlovchi grafik tasvirlarni saqlovchi format korsatilgan javobni aniqlang? jpg",
+    },
+    {
+        title: "Animasiya tasvirlarni saqlovchi format korsatilgan javobni aniqlang?  swf",
+    },
+    {
+        title: "Platon jismlarini yoki (Yo), qirrasi (Q) va uchi (U) orasida qanday bogliklik (Eyler tenglik) mavjud? Yo+U=Q+2",
+    },
+    {
+        title: "3 olchovli grafika yaratish dasturlari berilgan javobni aniqlang?  3D Studio Max, Maya",
+    },
+    {
+        title: "Quyidagi ranglardan qaysi biri oq rang tarkibida yoq? qora",
+    },
+    {
+        title: "Ranglarning xarakterlovchi parametrlar qaysi javobda berilgan? yoruglik tolqin uzunligi va chastotasi",
+    },
+    {
+        title: "Ranglarni nazariy va miqdoriy tavsiflash tizimiga nima deb ataladi  rang modellari",
+    },
+    {
+        title: "Rang modellari berilgan javobni aniqlang?     additiv, subtraktiv, persepsion, kolorimetrik",
+    },
+    {
+        title: "Additiv rang modelida qaysi ranglar asosiy ranglar sifatida ishlatiladi? qizil, yashil, kok",
+    },
+    {
+        title: "RGB rang modelida qaysi ranglar asosiy ranglar sifatida ishlatiladi?    qizil, yashil, kok",
+    },
+    {
+        title: "Subtraktiv rang modelida qaysi ranglar asosiy ranglar sifatida ishlatiladi?   zangori, qirmizi, sariq, qora",
+    },
+    {
+        title: "CMYK subtraktiv rang modelida qaysi ranglar asosiy ranglar sifatida ishlatiladi?qirmizi, sariq, zangori, qora",
+    },
+    {
+        title: "Ravshanlik va ranglilikka qarab ranglarni aniqlash modellari berilgan javobni aniqlang? HSB",
+    },
+    {
+        title: "Ravshanlik va ranglilikni ikki olchovi asosida ranglarni aniqlash modellari berilgan javobni aniqlang?   Lab",
+    },
+    {
+        title: "RGB rang modelida necha xil rangni hosil qilish mumkin? 256^3",
+    },
+    {
+        title: "Tasvirni ekranda aks ettirish imkoniyati yoki qogozda bosmalashda sifatini aniqlovchi korsatgichga nima deyiladi?   tasvirlash imkoniyati",
+    },
+    {
+        title: "Tasvirning olchamini ozgartirish uchun qanday almashtirishlar amalga oshiriladi? tasvirning tasvirlash imkoniyati ozgarib, piksellar miqdori ozgarmaydi",
+    },
+    {
+        title: "Rasmni kattalashtirganda ham uning sifati ozgarmaydigan grafika turiga …grafika deyiladi? Vektorli",
+    },
+    {
+        title: "Rasmni kattalashtirganda zinapoyasimon qirralar paydo bolishi bilan farqlanadigan grafika turiga …grafika deyiladi? Rastrli",
+    },
+    {
+        title: "Matematik tenglamalar bilan hosil qilinadigan grafika turiga …grafika deyiladi?  Fraktal",
+    },
+    {
+        title: "Bezye egri chizigini yasash uchun nechta nuqta olish lozim? 4",
+    },
+    {
+        title: "Skaner, raqamli fotoapparat, videokamera yordamida hosil qilinadigan grafika turi qaysi javobda berilgan?  Rastrli",
+    },
+    {
+        title: "Rastrli grafika hosil qilish dasturlarini aniqlang?  Adobe Photoshop, Paint",
+    },
+    {
+        title: "Vektroli grafika hosil qilish dasturlarini aniqlang?   Flash, Corel Draw    ",
+    },
+    {
+        title: "Qogoz hujjatlarni elektron shaklga otkazish qurilmasi qaysi javobda berilgan?   Skaner",
+    },
+    {
+        title: "Qaysi almashtirishning matritsasi determinanti -1 ga teng? akslantirish",
+    },
+    {
+        title: "Аdobe Photoshop dasturida asosan qaysi grafikadan foydalaniladi? Rastrli",
+    },
+    {
+        title: "Аdobe Photoshop dasturining asosiy formati qaysi? PSD",
+    },
+    {
+        title: "Bosma uchun qaysi rang modeli sifatli bo`ladi? CMYK",
+    },
+    {
+        title: "Keltirilgan proyeksiyalardan qaysilari parallel hisoblanadi?   barcha javoblar togri",
+    },
+    {
+        title: "Keltirilgan proyeksiyalardan qaysilari markaziy proyeksiyalash hisoblanadi?  bir nuqtali proyeksiyalash",
+    },
+    {
+        title: "Nuqtalar majmuasi ko`rinishida tasvirlanadigan grafika qanday ataladi? rastrli",
+    },
+    {
+        title: "Proyeksiyalash matritsasi qanday bo`ladi? determinanti 0ga teng emas",
+    },
+    {
+        title: "Ekran displeyining nuqtali elementi deb-     piksel",
+    },
+    {
+        title: "Ekranda piksellar gorizontal va vertikal ustunlardan tashkillashtirilgan to`r qanday ataladi ? rastr",
+    },
+    {
+        title: "Tasvirni organishning asosiy vazifasi bu mavjud bolgan obrazni (tasvirni) formal, tushunarli (aniq) bolgan belgilar tiliga otkazish. Bu holda qaralayotgan tasvir abstrakt tassavurga aynaltiriladi, yani sonlarga, maxsus belgilar yoki graflar toplamiga otkaziladi. Buni quyidagicha yozish mumkin?  COMPUTER VISION",
+    },
+    {
+        title: "Tasvirni qayta ishlashda kiruvchi va chiquvchi malumotlar-tasvirlar. Masalan: tasvirdagi ayrim elementlarni olib tashlash (ovoz, rang, …) ёki qoshish, uning hajmini ozgartirish va hakazo. Yani uni quyidagicha yozish mumkin? IMAGE PROCESSING",
+    },
+    {
+        title: "Ekranda chizish imkonini beradigan grafik dasturining birinchi avtori kim? А. Sazerlend",
+    },
+    {
+        title: "Videoadapter – bu       grafik displey ishini boshqaruvchi vosita;",
+    },
+    {
+        title: "Rastr elementi -bu piksel",
+    },
+    {
+        title: "RGB rang modelining qaysi koeffitsiyentlari qora ranga mos?  (R,G,B) = (0,0,0)",
+    },
+    {
+        title: "Kompyuter (mashina) grafikasi dastlabki, yani kiruvchi axborotni (noma'lum tabiatga ega) tasvir korinishiga olib keladi. Masalan: ekspert malumotlarni grafik, diagramma yoki boshqa shakllarga vizuallashtirish. Bundan tashqari shakllarni almashtirish, harakatlantirish, virtual tasavvurga yaqinlashtirish. Buni quyidagicha tasvirlash mumkin?  COMPUTER GRAPHICS",
+    },
+    {
+        title: "Rangli displey ekranidagi piksel qanday ko`rinishda tasvirlanadi? nuqta",
+    },
+    {
+        title: "Bosma uchun qaysi rang modeli sifatli bo`ladi? CMYK",
+    },
+    {
+        title: "Аdobe Photoshop dasturining asosiy formati qaysi? psd",
+    },
+    {
+        title: "Аdobe Photoshop dasturida asosan qaysi grafikadan foydalaniladi? Rastrli ",
+    },
+    {
+        title: "Qogoz hujjatlarni elektron shaklga otkazish qurilmasi qaysi javobda berilgan? Skaner",
+    },
+    {
+        title: "Skaner, raqamli fotoapparat, videokamera yordamida hosil qilinadigan grafika turi qaysi javobda berilgan?   Rastrli",
+    },
+    {
+        title: "Roberts algoritmida har bir qirra qanday ko`rinishda tasvirlanadi Qavariq ko`pburchak",
+    },
+    {
+        title: "Matematik tenglamalar bilan hosil qilinadigan grafika turiga …grafika deyiladi?  Fractal",
+    },
+    {
+        title: "Rasmni kattalashtirganda zinapoyasimon qirralar paydo bolishi bilan farqlanadigan grafika turiga …grafika deyiladi?  Rastrli",
+    },
+    {
+        title: "Rasmni kattalashtirganda ham uning sifati ozgarmaydigan grafika turiga …grafika deyiladi? Vektorli",
+    },
+    {
+        title: "Tasvirni ekranda aks ettirish imkoniyati yoki qogozda bosmalashda sifatini aniqlovchi korsatgichga nima deyiladi?    tasvirlash imkoniyati",
+    },
+    {
+        title: "Kompyuter grafikasida poligonal model quyidagicha ataladi    sirt",
+    },
+    {
+        title: "Mohiyati boyicha taniqli NTSI Amerika televizion standartining kompyuter varianti? YIQ rang modeli",
+    },
+    {
+        title: "RGB rang modelida necha xil rangni hosil qilish mumkin? 256 darajasi uch",
+    },
+    {
+        title: "CMYK subtraktiv rang modelida qaysi ranglar asosiy ranglar sifatida ishlatiladi? qirmizi, sariq, zangori, qora",
+    },
+    {
+        title: "СМYК, RGB va НSB modellarining yaxshi hususiyatlari mujassamlashgan yangi model ? LAB rang modeli",
+    },
+    {
+        title: "RGB rang modelida 255,0, 0. parametrlar o`rnatilgan. Bu parametrlarga qanaqa rang mos keladi ? Qizil",
+    },
+    {
+        title: "RGB rang modelida 0, 255, 0 parametrlar: o`rnatilgan. Bu parametrlarga qanaqa rang mos tushadi? Yashil",
+    },
+    {
+        title: "Faylning katta o`lchamligi qaysi grafikaning kamchiliklaridan biri   rastrli grafika",
+    },
+    {
+        title: "Tasvirning fizik o`lchovi nimalarda ifodalanadi   nuqta, dyuymga (dpi)",
+    },
+    {
+        title: "Subtraktiv rang modelida qaysi ranglar asosiy ranglar sifatida ishlatiladi? zangori, qirmizi, sariq, qora",
+    },
+    {
+        title: "CMYK modeli komponentalarining asosiy ranglari sifatida qanaqa ranglar qabul qilingan? moviy, purpur, sariq qora",
+    },
+    {
+        title: "RGB modeli komponentalarining asosiy ranglari sifatida qanaqa ranglar qabul qilingan?  qizil, yashil, kok",
+    },
+    {
+        title: "Rastrli tasvir sifati nima bilan baholanadi: Bir dyuymdagi piksellar soni bilan",
+    },
+    {
+        title: "RGB rang modelida qaysi ranglar asosiy ranglar sifatida ishlatiladi?  qizil, yashil, kok",
+    },
+    {
+        title: "Additiv rang modelida qaysi ranglar asosiy ranglar sifatida ishlatiladi?qizil, yashil, kok",
+    },
+    {
+        title: "Kompyuter grafikasi:    Grafik bo'lmagan ma'lumotlarni kompyuterdagi grafik ma'lumotlarga aylantirish",
+    },
+    {
+        title: "RGB rang modelida 0, 0, 255 parametrlar: o`rnatilgan. Bu parametrlarga qanaqa rang mos tushadi? Kok",
+    },
+    {
+        title: "Tasvirni aniqlash bu:    Grafik ma'lumotlarni kompyuterda belgilarga aylantirish",
+    },
+    {
+        title: "Ranglarning xarakterlovchi parametrlar qaysi javobda berilgan? yoruglik tolqin uzunligi va chastotasi",
+    },
+    {
+        title: "Fraktal grafikaning asosiy elementi nima? Formula",
+    },
+    {
+        title: "Kompyuter grafikasida necha xil almashtirishlarning ishlatiladi?  4",
+    },
+    {
+        title: "Tekislikda M nuqtaning tekislikdagi bir jinsli koordinatalarini ko'rsating?    М(x,y,1)",
+    },
+    {
+        title: "Necha xil platon jismlar mavjud? (Muntazam ko`pyoqliklar)? 5",
+    },
+    {
+        title: "Qaysi platon jismda 4 ta uchi 4 ta yoqi va 6 ta qirrasi mavjud? (Muntazam ko`pyoqliklar)?  tetraedr",
+    },
+    {
+        title: "Qaysi platon jismda 8 ta uchi 6 ta yoqi va 12 ta qirrasi mavjud? (Muntazam ko`pyoqliklar)? geksaedr",
+    },
+    {
+        title: "Qaysi platon jismda 6 ta uchi 8 ta yoqi va 12 ta qirrasi mavjud? (Muntazam ko`pyoqliklar) ? oktaedr ",
+    },
+    {
+        title: "RGB rang modelda (tizim) oq rang qanday o'rnatiladi?  (1,1,1)",
+    },
+    {
+        title: "Poligonal to`rlarning berish usullari...? Barcha javoblar to`g`ri",
+    },
+    {
+        title: "Kompyuter grafikasida poligonal to`rni ifodalashning necha xil usuli qo`llaniladi? 3",
+    },
+    {
+        title: "Qaysi proyeksiyalash paralel proyeksiyalash emas?   markaziy",
+    },
+    {
+        title: "Sazerland-Koxen algoritmi ... uchun mo`ljallangan ? Segmentni to`rtburchak soha bilan kesish",
+    },
+    {
+        title: "Qaysi figuralar uchun Brezenxeym rastr algoritmi mavjud?  Barcha javoblar to`g`ri",
+    },
+    {
+        title: "Proyeksiyalashning qanday turlari mavjud?  Parallel, markaziy",
+    },
+    {
+        title: "Aksonometrik proyeksiyalsh nechta sinfga bo`linadi?  3",
+    },
+    {
+        title: "Brezenxeym algoritmi ... uchun mo`ljallangan ?  Segmantni rastr orqali chizish",
+    },
+    {
+        title: "Kompyuter grafikasida sohani bo`yash nechta usul bilan berilishi mumkin?  2",
+    },
+    {
+        title: "Quyidagi ranglardan qaysi biri oq rang tarkibida yoq? qora",
+    },
+    {
+        title: "Qiya burchakli proyeksiyalsh nechta sinfga bo`linadi? 2",
+    },
+    {
+        title: "3 olchovli grafika yaratish dasturlari berilgan javobni aniqlang? 3D Studio Max, Maya",
+    },
+    {
+        title: "Rastrli grafikada tasvir tashkil etuvchilari berilgan javobni aniqlang? nuqta",
+    },
+    {
+        title: "Kompyuter monitoridagi tasvir (rasm) bilan bogliq bolgan axborotni qayta ishlashda nechta asosiy yonalishga ajratishadi? 3",
+    },
+    {
+        title: "Kompyuter monitoridagi tasvir (rasm) bilan bogliq bolgan axborotni qayta ishlashda qanday asosiy yonalishga ajratishadi? Hamma javoblar to`g`ri",
+    },
+    {
+        title: "Raqamli tasvirlarning korinishlari berilgan javobni aniqlang? rastrli, vektorli",
+    },
+    {
+        title: "Vektorli grafikada tasvirlar……..   chiziqlardan yordamida tashkil topadi",
+    },
+    {
+        title: "OpenGL ga berilgan togri tarifni belgilang?    ikki va uch ulchovli grafika sohasida ilovalar yaratish uchun moljallangan amaliy dasturiy interfeys",
+    },
+    {
+        title: "OpenGL kutubxonasining oziga xos xususiyatlari belgilang?    Barqarorlik, ishonchlilik va uzatuvchanlik, qollashning osonligi",
+    },
+    {
+        title: "Qaysi kutubxona ikki va uch olchovli grafika sohasida ilovalar yaratish uchun ancha keng tarqalgan amaliy dasturiy interfeys (API – Application Programming Interface) ? OpenGL",
+    },
+    {
+        title: "OpenGL ning asosiy imkoniyatlarini belgilang?    Primitivlarni tavsiflash, ranglar manbasini tavsiflash, atributlarni tayinlash, vizuallashtirish va geometrik ozgartirish funksiyalari",
+    },
+    {
+        title: "OpenGL ga berilgan togri tarifni belgilang?    ikki va uch ulchovli grafika sohasida ilovalar yaratish uchun moljallangan amaliy dasturiy interfeys",
+    },
+    {
+        title: "OpenGL funksiyalari qanday texnologiyasi asosida qurilgan? Dasturlash texnologiyasi",
+    },
+    {
+        title: "OpenGL kutubxonasi qaysi dasturlash tizimlarida avtomatik ornatiladi?   Microsoft Visual C++,  DevC++, Borland C++ ",
+    },
+    {
+        title: "Nuqta, chiziq, kopburchak va boshqa geometrik obyektlar OpenGL da qanday funksiya sifatida qaraladi? Primitivlarni tavsiflash",
+    },
+    {
+        title: "Kompyuter (mashina) grafikasi dastlabki, yani kiruvchi axborotni (noma'lum tabiatga ega) tasvir korinishiga olib keladi. Masalan: ekspert malumotlarni grafik, diagramma yoki boshqa shakllarga vizuallashtirish. Bundan tashqari shakllarni almashtirish, harakatlantirish, virtual tasavvurga yaqinlashtirish. Buni quyidagicha tasvirlash mumkin: COMPUTER GRAPHICS",
+    },
+    {
+        title: "Nuqta, chiziq, kopburchak va boshqa geometrik obyektlar OpenGL da qanday funksiya sifatida qaraladi? Primitivlarni tavsiflash",
+    },
+    {
+        title: "Uch olchovli sahnada joylashgan, ranglar manbasi parametri va holatini tavsiflash uchun nima xizmat qiladi? Ranglar manbasini tavsiflash",
+    },
+    {
+        title: "OpenGL da virtual fazoda kuzatuvchi holatini belgilash qaysi funksiyaga mansub? Vizuallashtirish",
+    },
+    {
+        title: "OpenGL da dasturchiga obyektlarni turli xil ozgartirish – burish, kochirish, masshtablashtirishni bajarish qaysi funksiyaga mansub? Geometrik ozgartirish,  Vizuallashtirish",
+    },
+    {
+        title: "OpenGL dan foydalanganda ekranda nima hosil bolishini qaysi funksiya belgilaydi?   Atribut",
+    },
+    {
+        title: "OpenGLda tasvirlarni yangilash funksiyasi qanday vazifalarni bajaradi? OpenGL buferlarini tozalash ",
+    },
+    {
+        title: "GL kutubxonasining barcha ozgarmaslari qanday qoshimcha bilan boshlanadi? GL",
+    },
+    {
+        title: "GLUT kutubxonasining barcha ozgarmaslari qanday qoshimcha bilan boshlanadi?   GLUT",
+    },
+    {
+        title: "GLU kutubxonasi bilan ishlash uchun qanday faylni qoshish zarur.  glu.h",
+    },
+    {
+        title: "GLU va GLUT kutubxonalarining tegishli buyruqlari va ozgarmaslari qanday old qoshimchalariga ega boladi ? glu (GLU_) va glut (GLUT_) ",
+    },
+    {
+        title: "Qaysi buyruq kadr buferini inisiallashtiradi va toliq rangli (palitrasiz) RGB rejimiga togrilaydi.   glutInitDisplayMode (GLUT_RGB)",
+    },
+    {
+        title: "Qaysi parametri teksturani kattalashtirish (chozish) uchun ishlatiladigan funksiyani belgilaydi.  GL_TEXTURE_MAG_FILTER",
+    },
+    {
+        title: "Qaysi parametri teksturalarni siqish uchun ishlatiladigan funksiyani belgilaydi.  GL_TEXTURE_MIN_FILTER",
+    },
+    {
+        title: "Qaysi parametri s koordinata qiymatini ornatadi, agar u  [0,1] kesma oraligida bolmasa. GL_TEXTURE_WRAP_S B. GL_TEXTURE_MAG_FILTER",
+    },
+    {
+        title: "Qaysi rejimdan foydalanish teksturani toldirish (ustiga qoyish) tezligini oshiradi, ammo bunda sifat pasayadi?  GL_NEAREST",
+    },
+    {
+        title: "Qaysi parametrda natijaviy rang ustida joylashgan rang nuqtasi va tekstura unga mos nuqtasini kopaytirish natijasida topiladi? GL_MODULATE",
+    },
+    {
+        title: "Qaysi parametrda natijaviy rang sifatida teksturadagi rang nuqtasi ishlatiladi ?  GL_REPLACE. ",
+    },
+    {
+        title: "func argumenti yordamida solishtirish funksiyasi berilganda qaysi buyruq test hech qachon otkazilmaydi, yani xar doim false qaytadi?   GL_NEVER",
+    },
+    {
+        title: "func argumenti yordamida solishtirish funksiyasi berilganda qaysi buyruq test har doim otkaziladi ?  GL_ALWAYS",
+    },
+    {
+        title: "Primitivlarni rasterizasiyalashni bajarish usullarini qaysi buyrugi bilan qisman tartibga solish mumkin?  glHint (target, mode)",
+    },
+    {
+        title: "OpenGL da kadr buferini tozalash uchun qanday buyruq ishlatiladi? glClear",
+    },
+    {
+        title: "OpenGL da kadr buferini toldirish uchun qanday buyruq ishlatiladi? glClearColor",
+    },
+    {
+        title: "OpenGL da uchlarning joriy rangini tayinlash uchun qanday buyruq ishlatiladi? glColor",
+    },
+    {
+        title: "OpenGL da uchlarning koordinatasini tayinlash uchun qanday buyruq ishlatiladi?   glVertex",
+    },
+    {
+        title: "Chaqiruv qaysi parametr bilan berilsa, interpolyasiya qoshiladi?  GL_SMOOTH",
+    },
+    {
+        title: "chaqiruv qaysi parametr berilsa esa ajratadi, ochiradi?   GL_FLAT",
+    },
+    {
+        title: "Qaysi parametrda har bir uchlar bir qancha nuqtalar koordinatalarini belgilaydi?   GL_POINTS",
+    },
+    {
+        title: "Qaysi parametrda har bir alohida uchlar juftligi kesmani belgilaydi; agarda toq sonli uchlar korsatilsa, u holda oxirgi uch etiborga olinmaydi?    GL_LINES",
+    },
+    {
+        title: "Qaysi parametrda har bir keyingi uch oldingisi bilan birgalikda kesmani belgilaydi?  GL_LINE_STRIP",
+    },
+    {
+        title: "Qaysi parametrda oldingi primitivdan farqli jihati shuki, oxirgi kesma songi va birinchi uchni belgilaydi, berk togri chiziq timsolida? GL_LINE_LOOP",
+    },
+    {
+        title: "Qaysi parametrda har bir alohida uchta uch uchburchakni belgilaydi; agarda uchta sonli uchlar karrali berilmasa, unda oxirgi uchlar etiborga olinmaydi.   GL_TRIANGLES",
+    },
+    {
+        title: "Rastrli grafikada tasvirlar……….    nuqta(piksel)lar yordamida tashkil etildai",
+    },
+    {
+        title: "Qaysi operatsion tizimni grafikli operatsion tizim deb atash mumkin? WINDOWS operatsion tizimi",
+    },
+    {
+        title: "Qaysi almashtirishlarda matritsalar simmetrik emas? masshtablash, burish",
+    },
+    {
+        title: "Qaysi almashtirishning matritsasi determinanti 1 ga teng?   ko`chish",
+    },
+    {
+        title: "Qaysi almashtirishning matritsasi determinanti -1 ga teng?   akslantirish",
+    },
+    {
+        title: "Qaysi Platon jismining  20 ta yoki, 30  ta kirrasi, 12 ta uchi mavjud?  dodekaedr",
+    },
+    {
+        title: "Platon jismlarini yoki (Yo), qirrasi (Q) va uchi (U) orasida qanday bogliklik (Eyler tenglik) mavjud?  Yo+U=Q+2",
+    },
+    {
+        title: "Keltirilgan proyeksiyalardan qaysilari parallel hisoblanadi?>    barcha javoblar to`g`ri",
+    },
+    {
+        title: "Keltirilgan proyeksiyalardan qaysilari markaziy proyeksiyalash hisoblanadi? bir nuqtali proyeksiyalash",
+    },
+    {
+        title: "Proyeksiyalash matritsasi qanday bo`ladi?  determinanti 0 ga teng emas",
+    },
+    {
+        title: "RGB rang modeli qayerda ishlatiladi?   monitorda",
+    },
+    {
+        title: "Axborotlarni kompyuterning diskiga grafikli axborot sifatida kochiradigan qurilmaning nomini aniqlang  ?Skaner",
+    },
+    {
+        title: "Keltirilgan algoritmlardan qaysi biri kesmani o`turtburchak bilan kesishga kiradi? Sazerland-Koxen algoritmi",
+    },
+    {
+        title: "Kesmani rastr algoritmi orqali chizuvchi algoritmni aniqlang?   Brezenxeym algoritmi ",
+    },
+    {
+        title: "Qaysi splayn egri chizigi ikki tayanuvchi nuqta va shu nuqtalardagi urunuvchi vektorlar bilan beriladi? Ermit egri chizigi ",
+    },
+    {
+        title: "Qaysi splayn egri chiziqlari  4 ta tayanuvchi nuqtalar bilan beriladi? Ermit, Beze, V-splayn",
+    },
+    {
+        title: "Keltirilgan algoritmlardan qaysi biri kesmani o`turtburchak bilan kesishga kiradi? Sazerland-Koxen algoritmi",
+    },
+    {
+        title: "Kompyuter grafikasining qollanilish sohalari qaysi bandda toliq korsatilgan?  arxitektura, meditsina, dizayn",
+    },
+    {
+        title: "Grafik fayllarning formatlari berilgan javobni aniqlang ?  gif, jpeg, bmp, eps, psd",
+    },
+    {
+        title: "Tasvirning olchamini ozgartirish uchun qanday almashtirishlar amalga oshiriladi?   tasvirning tasvirlash imkoniyati ozgarib, piksellar miqdori ozgarmaydi",
+    },
+    {
+        title: "Oddiy sur'atlarning kontrastini oshirish uchun nima qilish kerak? Oq kirish darajasini kamaytirish kerak",
+    },
+    {
+        title: "Qaysi soha Kompyuter grafikasi tadbiqi bilan bog`lanmagan?  avtomatik tarjima algoritmlari",
+    },
+    {
+        title: "Raqamli tasvirlarning korinishlari berilgan javobni aniqlang?    rastrli, vektorli",
+    },    
 ]
